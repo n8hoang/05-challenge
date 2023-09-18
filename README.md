@@ -6,7 +6,7 @@ I completed this task as part of the 05 challenge for Third-Party APIs. This sit
 
 ## Installation
 
-No need to install just run in browser. Link to deployed APP : https://n8hoang.github.io/05-challenge/
+No need to install just run in browser. Link to deployed APP : https://n8hoang.github.io/05-challenge/Develop/
 
 ## Usage
 
