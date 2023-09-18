@@ -2,7 +2,7 @@
 
 ## Description
 
-I completed this task as part of the 05 challenge for Third-Party APIs. This site will show the current date and have an input box for each hour from 9AM to 5PM. The website will work as a work day scheduler so you can input any task and save it to local storage with the click of a button. Also the website will be updated with your current time and the hours will show as red if the hour is past your current hour, grey if the hour is equal to your current hour, and green if the hour is in the future of your current hour. Coding this project helped me get used to jQuery, dayJS, and other 3rd-party API's.
+I completed this task as part of the 05 challenge for Third-Party APIs. This site will show the current date and have an input box for each hour from 9AM to 5PM. The website will work as a work day scheduler so you can input any task and save it to local storage with the click of a button. Also the website will be updated with your current time and the hours will show as grey if the hour is past your current hour, red if the hour is equal to your current hour, and green if the hour is in the future of your current hour. Coding this project helped me get used to jQuery, dayJS, and other 3rd-party API's.
 
 ## Installation
 
@@ -10,8 +10,8 @@ No need to install just run in browser. Link to deployed APP : https://n8hoang.g
 
 ## Usage
 
-Type in any hour and click the save button to save to local storage. Past will be red, current will be grey, future will be green.
-![demo](Assets/passwordgenss.png)
+Type in any hour and click the save button to save to local storage. Past will be grey, current will be red, future will be green.
+![demo](Assets/schedulerss.png)
 
 ## Credits
 
