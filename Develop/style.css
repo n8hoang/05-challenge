@@ -3,11 +3,11 @@ body {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #ff0000;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #636363;
 }
 
 .future {
@@ -19,4 +19,3 @@ body {
   align-items: center;
   justify-content: center;
 }
-
